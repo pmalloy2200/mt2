@@ -21,7 +21,7 @@
  ![Total Mass vs. Total Radius]
  (https://raw.githubusercontent.com/pmalloy2200/mt2/master/m_vs_r.png)
  
- -> *Note: This graph uses a logarithmic scale.* <-
+         *Note: This graph uses a logarithmic scale.*
  
  
  
