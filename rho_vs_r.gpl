@@ -1,0 +1,7 @@
+unset key
+set style data line
+
+set term png
+set o "rho_vs_r.png"
+
+p  [0:] [0:] "rhovsr" u 1:3
